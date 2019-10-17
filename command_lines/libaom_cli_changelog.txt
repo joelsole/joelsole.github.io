@@ -1,0 +1,3 @@
+from 08/17/2019 --------------------
+./aomenc -o <bitstream> --verbose --passes=2 --cpu-used=0 --threads=1 --ivf --i420 --profile=0 --width=<width> --height=<height> --input-bit-depth=10 --fps=<fps> --kf-max-dist=<kf interval> --kf-min-dist=<kf interval> --lag-in-frames=25 --aq-mode=0 --end-usage=q --cq-level=<qp> --auto-alt-ref=2 --frame-parallel=0 --tile-columns=0 --test-decode=fatal --psnr --bias-pct=50 --minsection-pct=0 --maxsection-pct=2000 --undershoot-pct=100 --overshoot-pct=100 <reconstructed YUV>
+<kf interval> = 2 seconds (e.g. 128 frames for 60 fps, 48 frames for 24 fps)
