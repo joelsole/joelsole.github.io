@@ -1,3 +1,0 @@
-from 08/17/2019 --------------------
-SvtAv1EncApp -i <input YUV> -o <reconstructed YUV> -w <width> -h <height> -q <qp> -fps-num <fps num> -fps-denom <fps denom> -n <number of frames> -b <output bitstream> -intra-period <kf interval> -bit-depth <bit depth> -c config/Sample.cfg -scd 0 -enc-mode 0 -lp 48
-<kf interval> = 2 seconds (e.g. 128 frames for 60 fps, 48 frames for 24 fps)
