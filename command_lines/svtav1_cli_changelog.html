@@ -9,15 +9,15 @@
 <p>./SvtAv1EncApp -i &ltinput YUV&gt -o &ltreconstructed YUV&gt -w &ltwidth&gt -h &ltheight&gt -q &ltqp&gt -fps-num &ltfps num&gt -fps-denom &ltfps denom&gt -n &ltnumber of frames&gt -b &ltoutput bitstream&gt -intra-period &ltkf interval&gt -bit-depth &ltbit depth&gt -c config/Sample.cfg -scd 0 -enc-mode 5 -output-stat-file fp_stats.stat -enc-mode-2p 0 -lp 48</p>
 <p>Pass 2:</p>
 <p>./SvtAv1EncApp -i &ltinput YUV&gt -o &ltreconstructed YUV&gt -w &ltwidth&gt -h &ltheight&gt -q &ltqp&gt -fps-num &ltfps num&gt -fps-denom &ltfps denom&gt -n &ltnumber of frames&gt -b &ltoutput bitstream&gt -intra-period &ltkf interval&gt -bit-depth &ltbit depth&gt -c config/Sample.cfg -scd 0 -enc-mode 0 -input-stat-file fp_stats.stat -lp 48</p>
-<p>&ltkf interval&gt = 2 seconds (e.g. 128 frames for 60 fps, 48 frames for 24 fps)</p>
+<p>&ltkf interval&gt = -1 (i.e. only first key-frame)</p>
 <p>&ltqp&gt = {20, 32, 43, 55, 59}</p>
 <h3>from 10/26/2019 --------------------</h3>
 <p>./SvtAv1EncApp -i &ltinput YUV&gt -o &ltreconstructed YUV&gt -w &ltwidth&gt -h &ltheight&gt -q &ltqp&gt -fps-num &ltfps num&gt -fps-denom &ltfps denom&gt -n &ltnumber of frames&gt -b &ltoutput bitstream&gt -intra-period &ltkf interval&gt -bit-depth &ltbit depth&gt -c config/Sample.cfg -scd 0 -enc-mode 0 -lp 48</p>
-<p>&ltkf interval&gt = 2 seconds (e.g. 128 frames for 60 fps, 48 frames for 24 fps)</p>
+<p>&ltkf interval&gt = -1 (i.e. only first key-frame)</p>
 <p>&ltqp&gt = {20, 32, 43, 55, 59}</p>
 <h3>from 08/17/2019 --------------------</h3>
 <p>./SvtAv1EncApp -i &ltinput YUV&gt -o &ltreconstructed YUV&gt -w &ltwidth&gt -h &ltheight&gt -q &ltqp&gt -fps-num &ltfps num&gt -fps-denom &ltfps denom&gt -n &ltnumber of frames&gt -b &ltoutput bitstream&gt -intra-period &ltkf interval&gt -bit-depth &ltbit depth&gt -c config/Sample.cfg -scd 0 -enc-mode 0 -lp 48</p>
-<p>&ltkf interval&gt = 2 seconds (e.g. 128 frames for 60 fps, 48 frames for 24 fps)</p>
+<p>&ltkf interval&gt = -1 (i.e. only first key-frame)</p>
 <p>&ltqp&gt = {20, 32, 43, 55, 63}</p>
 </body>
 </html>
