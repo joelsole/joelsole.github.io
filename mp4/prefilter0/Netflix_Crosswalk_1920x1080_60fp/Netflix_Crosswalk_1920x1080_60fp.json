@@ -1,0 +1,218 @@
+[
+    {
+        "bitrate_kbps": 7434.37,
+        "vmaf": 98.97,
+        "psnr": 45.55,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp20_vmaf98.97_psnr45.55_kbps7434.37_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 20, vmaf 98.97, psnr 45.55, bitrate 7434.37kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 686.0,
+        "vmaf": 76.86,
+        "psnr": 37.34,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf76.86_psnr37.34_kbps686.0_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 76.86, psnr 37.34, bitrate 686.0kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2681.14,
+        "vmaf": 99.22,
+        "psnr": 39.73,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.22_psnr39.73_kbps2681.14_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.22, psnr 39.73, bitrate 2681.14kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2912.98,
+        "vmaf": 93.8,
+        "psnr": 43.7,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf93.8_psnr43.7_kbps2912.98_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 93.8, psnr 43.7, bitrate 2912.98kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1866.55,
+        "vmaf": 95.49,
+        "psnr": 39.36,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf95.49_psnr39.36_kbps1866.55_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 95.49, psnr 39.36, bitrate 1866.55kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 604.54,
+        "vmaf": 66.19,
+        "psnr": 38.18,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf66.19_psnr38.18_kbps604.54_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 66.19, psnr 38.18, bitrate 604.54kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1134.27,
+        "vmaf": 87.64,
+        "psnr": 38.58,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf87.64_psnr38.58_kbps1134.27_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 87.64, psnr 38.58, bitrate 1134.27kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 8080.62,
+        "vmaf": 99.91,
+        "psnr": 40.24,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf99.91_psnr40.24_kbps8080.62_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 99.91, psnr 40.24, bitrate 8080.62kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1122.98,
+        "vmaf": 81.09,
+        "psnr": 40.73,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf81.09_psnr40.73_kbps1122.98_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 81.09, psnr 40.73, bitrate 1122.98kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3901.11,
+        "vmaf": 96.05,
+        "psnr": 44.38,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf96.05_psnr44.38_kbps3901.11_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 96.05, psnr 44.38, bitrate 3901.11kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5488.85,
+        "vmaf": 97.87,
+        "psnr": 45.05,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf97.87_psnr45.05_kbps5488.85_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 97.87, psnr 45.05, bitrate 5488.85kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5299.24,
+        "vmaf": 99.89,
+        "psnr": 40.12,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf99.89_psnr40.12_kbps5299.24_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 99.89, psnr 40.12, bitrate 5299.24kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2100.59,
+        "vmaf": 90.6,
+        "psnr": 42.81,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf90.6_psnr42.81_kbps2100.59_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 90.6, psnr 42.81, bitrate 2100.59kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1529.12,
+        "vmaf": 86.33,
+        "psnr": 41.81,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf86.33_psnr41.81_kbps1529.12_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 86.33, psnr 41.81, bitrate 1529.12kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3814.66,
+        "vmaf": 99.87,
+        "psnr": 39.95,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.87_psnr39.95_kbps3814.66_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.87, psnr 39.95, bitrate 3814.66kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1351.5,
+        "vmaf": 90.73,
+        "psnr": 38.9,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf90.73_psnr38.9_kbps1351.5_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 90.73, psnr 38.9, bitrate 1351.5kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 13393.36,
+        "vmaf": 99.91,
+        "psnr": 40.27,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp20_vmaf99.91_psnr40.27_kbps13393.36_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 20, vmaf 99.91, psnr 40.27, bitrate 13393.36kbps, test NetflixCrosswalk1920x108060fpmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 958.9,
+        "vmaf": 77.79,
+        "psnr": 40.14,
+        "url": "NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf77.79_psnr40.14_kbps958.9_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 77.79, psnr 40.14, bitrate 958.9kbps, test NetflixCrosswalk1920x108060fpmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    }
+]

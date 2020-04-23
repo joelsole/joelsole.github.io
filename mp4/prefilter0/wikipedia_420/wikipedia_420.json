@@ -1,0 +1,242 @@
+[
+    {
+        "bitrate_kbps": 438.57,
+        "vmaf": 99.62,
+        "psnr": 43.97,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf99.62_psnr43.97_kbps438.57_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 99.62, psnr 43.97, bitrate 438.57kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1005.4,
+        "vmaf": 99.82,
+        "psnr": 51.49,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf99.82_psnr51.49_kbps1005.4_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 99.82, psnr 51.49, bitrate 1005.4kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1301.12,
+        "vmaf": 99.82,
+        "psnr": 53.5,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp20_vmaf99.82_psnr53.5_kbps1301.12_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 20, vmaf 99.82, psnr 53.5, bitrate 1301.12kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 792.33,
+        "vmaf": 100.0,
+        "psnr": 26.15,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf100.0_psnr26.15_kbps792.33_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 100.0, psnr 26.15, bitrate 792.33kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1928.24,
+        "vmaf": 100.0,
+        "psnr": 26.17,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf100.0_psnr26.17_kbps1928.24_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 100.0, psnr 26.17, bitrate 1928.24kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1496.86,
+        "vmaf": 99.82,
+        "psnr": 54.44,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp16_vmaf99.82_psnr54.44_kbps1496.86_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 16, vmaf 99.82, psnr 54.44, bitrate 1496.86kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 673.05,
+        "vmaf": 99.78,
+        "psnr": 48.62,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.78_psnr48.62_kbps673.05_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.78, psnr 48.62, bitrate 673.05kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1196.26,
+        "vmaf": 100.0,
+        "psnr": 26.17,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf100.0_psnr26.17_kbps1196.26_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 100.0, psnr 26.17, bitrate 1196.26kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 570.88,
+        "vmaf": 99.99,
+        "psnr": 26.03,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf99.99_psnr26.03_kbps570.88_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 99.99, psnr 26.03, bitrate 570.88kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 735.85,
+        "vmaf": 100.0,
+        "psnr": 26.11,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf100.0_psnr26.11_kbps735.85_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 100.0, psnr 26.11, bitrate 735.85kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3199.91,
+        "vmaf": 100.0,
+        "psnr": 26.15,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp16_vmaf100.0_psnr26.15_kbps3199.91_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 16, vmaf 100.0, psnr 26.15, bitrate 3199.91kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2874.6,
+        "vmaf": 100.0,
+        "psnr": 26.16,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp20_vmaf100.0_psnr26.16_kbps2874.6_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 20, vmaf 100.0, psnr 26.16, bitrate 2874.6kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 496.72,
+        "vmaf": 99.69,
+        "psnr": 45.7,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf99.69_psnr45.7_kbps496.72_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 99.69, psnr 45.7, bitrate 496.72kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2414.89,
+        "vmaf": 100.0,
+        "psnr": 26.17,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf100.0_psnr26.17_kbps2414.89_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 100.0, psnr 26.17, bitrate 2414.89kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 332.87,
+        "vmaf": 98.93,
+        "psnr": 39.33,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf98.93_psnr39.33_kbps332.87_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 98.93, psnr 39.33, bitrate 332.87kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 776.89,
+        "vmaf": 99.8,
+        "psnr": 49.75,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf99.8_psnr49.75_kbps776.89_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 99.8, psnr 49.75, bitrate 776.89kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1514.36,
+        "vmaf": 100.0,
+        "psnr": 26.18,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf100.0_psnr26.18_kbps1514.36_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 100.0, psnr 26.18, bitrate 1514.36kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 406.63,
+        "vmaf": 99.54,
+        "psnr": 42.85,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf99.54_psnr42.85_kbps406.63_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 99.54, psnr 42.85, bitrate 406.63kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 573.2,
+        "vmaf": 99.75,
+        "psnr": 47.34,
+        "url": "wikipedia420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.75_psnr47.34_kbps573.2_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.75, psnr 47.34, bitrate 573.2kbps, test wikipedia420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 947.53,
+        "vmaf": 100.0,
+        "psnr": 26.17,
+        "url": "wikipedia420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf100.0_psnr26.17_kbps947.53_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 100.0, psnr 26.17, bitrate 947.53kbps, test wikipedia420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

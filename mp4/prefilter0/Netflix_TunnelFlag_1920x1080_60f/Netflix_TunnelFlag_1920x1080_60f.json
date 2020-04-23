@@ -1,0 +1,122 @@
+[
+    {
+        "bitrate_kbps": 10727.7,
+        "vmaf": 100.0,
+        "psnr": 31.94,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf100.0_psnr31.94_kbps10727.7_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 100.0, psnr 31.94, bitrate 10727.7kbps, test NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4005.01,
+        "vmaf": 99.8,
+        "psnr": 36.09,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf99.8_psnr36.09_kbps4005.01_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 99.8, psnr 36.09, bitrate 4005.01kbps, test NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 7199.99,
+        "vmaf": 99.86,
+        "psnr": 38.31,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.86_psnr38.31_kbps7199.99_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.86, psnr 38.31, bitrate 7199.99kbps, test NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2890.55,
+        "vmaf": 99.82,
+        "psnr": 30.97,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf99.82_psnr30.97_kbps2890.55_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 99.82, psnr 30.97, bitrate 2890.55kbps, test NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 5289.79,
+        "vmaf": 99.83,
+        "psnr": 37.17,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf99.83_psnr37.17_kbps5289.79_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 99.83, psnr 37.17, bitrate 5289.79kbps, test NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2228.98,
+        "vmaf": 98.8,
+        "psnr": 33.41,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf98.8_psnr33.41_kbps2228.98_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 98.8, psnr 33.41, bitrate 2228.98kbps, test NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5588.14,
+        "vmaf": 99.97,
+        "psnr": 31.6,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf99.97_psnr31.6_kbps5588.14_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 99.97, psnr 31.6, bitrate 5588.14kbps, test NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4715.9,
+        "vmaf": 99.94,
+        "psnr": 31.48,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf99.94_psnr31.48_kbps4715.9_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 99.94, psnr 31.48, bitrate 4715.9kbps, test NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 7650.67,
+        "vmaf": 100.0,
+        "psnr": 31.79,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf100.0_psnr31.79_kbps7650.67_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 100.0, psnr 31.79, bitrate 7650.67kbps, test NetflixTunnelFlag1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3447.67,
+        "vmaf": 99.77,
+        "psnr": 35.46,
+        "url": "NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf99.77_psnr35.46_kbps3447.67_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 99.77, psnr 35.46, bitrate 3447.67kbps, test NetflixTunnelFlag1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    }
+]

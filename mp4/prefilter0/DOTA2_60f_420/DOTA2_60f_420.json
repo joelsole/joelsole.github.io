@@ -1,0 +1,170 @@
+[
+    {
+        "bitrate_kbps": 1652.94,
+        "vmaf": 90.89,
+        "psnr": 31.41,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf90.89_psnr31.41_kbps1652.94_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 90.89, psnr 31.41, bitrate 1652.94kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3790.95,
+        "vmaf": 92.47,
+        "psnr": 40.4,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf92.47_psnr40.4_kbps3790.95_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 92.47, psnr 40.4, bitrate 3790.95kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6974.18,
+        "vmaf": 100.0,
+        "psnr": 31.9,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf100.0_psnr31.9_kbps6974.18_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 100.0, psnr 31.9, bitrate 6974.18kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1516.42,
+        "vmaf": 83.3,
+        "psnr": 36.91,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf83.3_psnr36.91_kbps1516.42_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 83.3, psnr 36.91, bitrate 1516.42kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 7463.11,
+        "vmaf": 95.67,
+        "psnr": 42.94,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf95.67_psnr42.94_kbps7463.11_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 95.67, psnr 42.94, bitrate 7463.11kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 854.41,
+        "vmaf": 72.75,
+        "psnr": 34.6,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf72.75_psnr34.6_kbps854.41_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 72.75, psnr 34.6, bitrate 854.41kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2684.34,
+        "vmaf": 98.38,
+        "psnr": 31.73,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf98.38_psnr31.73_kbps2684.34_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 98.38, psnr 31.73, bitrate 2684.34kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1844.74,
+        "vmaf": 86.07,
+        "psnr": 37.68,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf86.07_psnr37.68_kbps1844.74_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 86.07, psnr 37.68, bitrate 1844.74kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5561.83,
+        "vmaf": 94.48,
+        "psnr": 41.84,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf94.48_psnr41.84_kbps5561.83_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 94.48, psnr 41.84, bitrate 5561.83kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 10326.33,
+        "vmaf": 100.0,
+        "psnr": 31.91,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf100.0_psnr31.91_kbps10326.33_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 100.0, psnr 31.91, bitrate 10326.33kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 14269.11,
+        "vmaf": 100.0,
+        "psnr": 31.91,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf100.0_psnr31.91_kbps14269.11_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 100.0, psnr 31.91, bitrate 14269.11kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4741.49,
+        "vmaf": 99.98,
+        "psnr": 31.87,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf99.98_psnr31.87_kbps4741.49_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 99.98, psnr 31.87, bitrate 4741.49kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2635.69,
+        "vmaf": 89.83,
+        "psnr": 39.1,
+        "url": "DOTA260f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf89.83_psnr39.1_kbps2635.69_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 89.83, psnr 39.1, bitrate 2635.69kbps, test DOTA260f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3326.94,
+        "vmaf": 99.54,
+        "psnr": 31.79,
+        "url": "DOTA260f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf99.54_psnr31.79_kbps3326.94_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 99.54, psnr 31.79, bitrate 3326.94kbps, test DOTA260f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

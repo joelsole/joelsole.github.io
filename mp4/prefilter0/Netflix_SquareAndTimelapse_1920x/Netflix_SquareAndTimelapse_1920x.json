@@ -1,0 +1,146 @@
+[
+    {
+        "bitrate_kbps": 2675.78,
+        "vmaf": 90.9,
+        "psnr": 32.39,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf90.9_psnr32.39_kbps2675.78_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 90.9, psnr 32.39, bitrate 2675.78kbps, test NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4394.15,
+        "vmaf": 99.01,
+        "psnr": 33.05,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf99.01_psnr33.05_kbps4394.15_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 99.01, psnr 33.05, bitrate 4394.15kbps, test NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3629.72,
+        "vmaf": 92.27,
+        "psnr": 36.72,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf92.27_psnr36.72_kbps3629.72_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 92.27, psnr 36.72, bitrate 3629.72kbps, test NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5138.92,
+        "vmaf": 99.85,
+        "psnr": 33.18,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf99.85_psnr33.18_kbps5138.92_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 99.85, psnr 33.18, bitrate 5138.92kbps, test NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4805.09,
+        "vmaf": 96.21,
+        "psnr": 38.14,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf96.21_psnr38.14_kbps4805.09_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 96.21, psnr 38.14, bitrate 4805.09kbps, test NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 12199.54,
+        "vmaf": 99.98,
+        "psnr": 33.63,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.98_psnr33.63_kbps12199.54_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.98, psnr 33.63, bitrate 12199.54kbps, test NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 9142.58,
+        "vmaf": 99.96,
+        "psnr": 33.52,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.96_psnr33.52_kbps9142.58_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.96, psnr 33.52, bitrate 9142.58kbps, test NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 8502.43,
+        "vmaf": 99.85,
+        "psnr": 40.95,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.85_psnr40.95_kbps8502.43_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.85, psnr 40.95, bitrate 8502.43kbps, test NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1877.96,
+        "vmaf": 78.5,
+        "psnr": 33.41,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf78.5_psnr33.41_kbps1877.96_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 78.5, psnr 33.41, bitrate 1877.96kbps, test NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6443.52,
+        "vmaf": 99.09,
+        "psnr": 39.6,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.09_psnr39.6_kbps6443.52_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.09, psnr 39.6, bitrate 6443.52kbps, test NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6757.86,
+        "vmaf": 99.93,
+        "psnr": 33.37,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf99.93_psnr33.37_kbps6757.86_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 99.93, psnr 33.37, bitrate 6757.86kbps, test NetflixSquareAndTimelapse1920xmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3070.57,
+        "vmaf": 89.37,
+        "psnr": 35.88,
+        "url": "NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf89.37_psnr35.88_kbps3070.57_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 89.37, psnr 35.88, bitrate 3070.57kbps, test NetflixSquareAndTimelapse1920xmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    }
+]

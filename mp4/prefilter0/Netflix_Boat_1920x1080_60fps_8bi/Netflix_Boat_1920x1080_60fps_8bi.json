@@ -1,0 +1,122 @@
+[
+    {
+        "bitrate_kbps": 6294.35,
+        "vmaf": 94.84,
+        "psnr": 29.96,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf94.84_psnr29.96_kbps6294.35_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 94.84, psnr 29.96, bitrate 6294.35kbps, test NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4103.98,
+        "vmaf": 87.7,
+        "psnr": 34.24,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf87.7_psnr34.24_kbps4103.98_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 87.7, psnr 34.24, bitrate 4103.98kbps, test NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 7301.42,
+        "vmaf": 96.58,
+        "psnr": 30.02,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf96.58_psnr30.02_kbps7301.42_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 96.58, psnr 30.02, bitrate 7301.42kbps, test NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 9381.23,
+        "vmaf": 99.2,
+        "psnr": 30.12,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf99.2_psnr30.12_kbps9381.23_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 99.2, psnr 30.12, bitrate 9381.23kbps, test NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 12665.9,
+        "vmaf": 99.93,
+        "psnr": 30.18,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.93_psnr30.18_kbps12665.9_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.93, psnr 30.18, bitrate 12665.9kbps, test NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2551.22,
+        "vmaf": 78.82,
+        "psnr": 31.87,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf78.82_psnr31.87_kbps2551.22_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 78.82, psnr 31.87, bitrate 2551.22kbps, test NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 4855.49,
+        "vmaf": 89.91,
+        "psnr": 35.11,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf89.91_psnr35.11_kbps4855.49_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 89.91, psnr 35.11, bitrate 4855.49kbps, test NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6403.56,
+        "vmaf": 93.53,
+        "psnr": 36.63,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf93.53_psnr36.63_kbps6403.56_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 93.53, psnr 36.63, bitrate 6403.56kbps, test NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 8637.54,
+        "vmaf": 96.58,
+        "psnr": 38.25,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf96.58_psnr38.25_kbps8637.54_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 96.58, psnr 38.25, bitrate 8637.54kbps, test NetflixBoat1920x108060fps8bimrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3985.22,
+        "vmaf": 88.22,
+        "psnr": 29.7,
+        "url": "NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf88.22_psnr29.7_kbps3985.22_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 88.22, psnr 29.7, bitrate 3985.22kbps, test NetflixBoat1920x108060fps8bimrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

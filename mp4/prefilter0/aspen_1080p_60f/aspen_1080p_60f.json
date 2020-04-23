@@ -1,0 +1,194 @@
+[
+    {
+        "bitrate_kbps": 540.48,
+        "vmaf": 83.02,
+        "psnr": 39.36,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf83.02_psnr39.36_kbps540.48_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 83.02, psnr 39.36, bitrate 540.48kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 452.47,
+        "vmaf": 80.14,
+        "psnr": 38.77,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf80.14_psnr38.77_kbps452.47_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 80.14, psnr 38.77, bitrate 452.47kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1519.07,
+        "vmaf": 92.63,
+        "psnr": 41.73,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf92.63_psnr41.73_kbps1519.07_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 92.63, psnr 41.73, bitrate 1519.07kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 284.05,
+        "vmaf": 69.98,
+        "psnr": 36.95,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf69.98_psnr36.95_kbps284.05_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 69.98, psnr 36.95, bitrate 284.05kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3738.47,
+        "vmaf": 96.09,
+        "psnr": 42.94,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf96.09_psnr42.94_kbps3738.47_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 96.09, psnr 42.94, bitrate 3738.47kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1424.21,
+        "vmaf": 98.66,
+        "psnr": 38.67,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf98.66_psnr38.67_kbps1424.21_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 98.66, psnr 38.67, bitrate 1424.21kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 332.96,
+        "vmaf": 80.02,
+        "psnr": 36.41,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf80.02_psnr36.41_kbps332.96_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 80.02, psnr 36.41, bitrate 332.96kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 551.49,
+        "vmaf": 89.35,
+        "psnr": 37.6,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf89.35_psnr37.6_kbps551.49_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 89.35, psnr 37.6, bitrate 551.49kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 734.45,
+        "vmaf": 86.94,
+        "psnr": 40.24,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf86.94_psnr40.24_kbps734.45_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 86.94, psnr 40.24, bitrate 734.45kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 666.98,
+        "vmaf": 91.96,
+        "psnr": 37.91,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf91.96_psnr37.91_kbps666.98_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 91.96, psnr 37.91, bitrate 666.98kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2452.39,
+        "vmaf": 99.93,
+        "psnr": 38.91,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.93_psnr38.91_kbps2452.39_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.93, psnr 38.91, bitrate 2452.39kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4718.56,
+        "vmaf": 99.99,
+        "psnr": 39.12,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf99.99_psnr39.12_kbps4718.56_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 99.99, psnr 39.12, bitrate 4718.56kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1052.87,
+        "vmaf": 90.19,
+        "psnr": 41.07,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf90.19_psnr41.07_kbps1052.87_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 90.19, psnr 41.07, bitrate 1052.87kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 11109.79,
+        "vmaf": 100.0,
+        "psnr": 39.36,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf100.0_psnr39.36_kbps11109.79_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 100.0, psnr 39.36, bitrate 11109.79kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 949.38,
+        "vmaf": 95.77,
+        "psnr": 38.34,
+        "url": "aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf95.77_psnr38.34_kbps949.38_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 95.77, psnr 38.34, bitrate 949.38kbps, test aspen1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2171.12,
+        "vmaf": 94.35,
+        "psnr": 42.25,
+        "url": "aspen1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf94.35_psnr42.25_kbps2171.12_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 94.35, psnr 42.25, bitrate 2171.12kbps, test aspen1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    }
+]

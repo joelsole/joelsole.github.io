@@ -1,0 +1,170 @@
+[
+    {
+        "bitrate_kbps": 2913.94,
+        "vmaf": 94.7,
+        "psnr": 39.0,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf94.7_psnr39.0_kbps2913.94_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 94.7, psnr 39.0, bitrate 2913.94kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3608.25,
+        "vmaf": 100.0,
+        "psnr": 31.06,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf100.0_psnr31.06_kbps3608.25_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 100.0, psnr 31.06, bitrate 3608.25kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 5192.2,
+        "vmaf": 100.0,
+        "psnr": 31.1,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf100.0_psnr31.1_kbps5192.2_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 100.0, psnr 31.1, bitrate 5192.2kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 7810.29,
+        "vmaf": 100.0,
+        "psnr": 31.13,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf100.0_psnr31.13_kbps7810.29_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 100.0, psnr 31.13, bitrate 7810.29kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2628.24,
+        "vmaf": 100.0,
+        "psnr": 31.04,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf100.0_psnr31.04_kbps2628.24_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 100.0, psnr 31.04, bitrate 2628.24kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2056.34,
+        "vmaf": 92.4,
+        "psnr": 37.55,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf92.4_psnr37.55_kbps2056.34_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 92.4, psnr 37.55, bitrate 2056.34kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2181.74,
+        "vmaf": 99.96,
+        "psnr": 30.98,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf99.96_psnr30.98_kbps2181.74_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 99.96, psnr 30.98, bitrate 2181.74kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4243.84,
+        "vmaf": 96.52,
+        "psnr": 40.48,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf96.52_psnr40.48_kbps4243.84_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 96.52, psnr 40.48, bitrate 4243.84kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 683.34,
+        "vmaf": 78.77,
+        "psnr": 33.27,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf78.77_psnr33.27_kbps683.34_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 78.77, psnr 33.27, bitrate 683.34kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 11221.71,
+        "vmaf": 100.0,
+        "psnr": 31.16,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf100.0_psnr31.16_kbps11221.71_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 100.0, psnr 31.16, bitrate 11221.71kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1247.8,
+        "vmaf": 94.88,
+        "psnr": 30.8,
+        "url": "life1080p3060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf94.88_psnr30.8_kbps1247.8_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 94.88, psnr 30.8, bitrate 1247.8kbps, test life1080p3060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 5695.88,
+        "vmaf": 97.69,
+        "psnr": 41.59,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf97.69_psnr41.59_kbps5695.88_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 97.69, psnr 41.59, bitrate 5695.88kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1472.46,
+        "vmaf": 89.38,
+        "psnr": 36.17,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf89.38_psnr36.17_kbps1472.46_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 89.38, psnr 36.17, bitrate 1472.46kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1211.94,
+        "vmaf": 87.26,
+        "psnr": 35.4,
+        "url": "life1080p3060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf87.26_psnr35.4_kbps1211.94_fps30.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 87.26, psnr 35.4, bitrate 1211.94kbps, test life1080p3060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "bitrate_kbps": 5646.13,
+        "vmaf": 78.26,
+        "psnr": 30.79,
+        "url": "MINECRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf78.26_psnr30.79_kbps5646.13_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 78.26, psnr 30.79, bitrate 5646.13kbps, test MINECRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5670.21,
+        "vmaf": 76.59,
+        "psnr": 27.77,
+        "url": "MINECRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf76.59_psnr27.77_kbps5670.21_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 76.59, psnr 27.77, bitrate 5670.21kbps, test MINECRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2671.94,
+        "vmaf": 62.11,
+        "psnr": 28.82,
+        "url": "MINECRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf62.11_psnr28.82_kbps2671.94_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 62.11, psnr 28.82, bitrate 2671.94kbps, test MINECRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 12305.74,
+        "vmaf": 91.34,
+        "psnr": 28.44,
+        "url": "MINECRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf91.34_psnr28.44_kbps12305.74_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 91.34, psnr 28.44, bitrate 12305.74kbps, test MINECRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

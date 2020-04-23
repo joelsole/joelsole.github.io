@@ -1,0 +1,98 @@
+[
+    {
+        "bitrate_kbps": 4886.63,
+        "vmaf": 72.3,
+        "psnr": 31.26,
+        "url": "duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf72.3_psnr31.26_kbps4886.63_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 72.3, psnr 31.26, bitrate 4886.63kbps, test duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 4033.39,
+        "vmaf": 68.26,
+        "psnr": 30.73,
+        "url": "duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf68.26_psnr30.73_kbps4033.39_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 68.26, psnr 30.73, bitrate 4033.39kbps, test duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 11939.7,
+        "vmaf": 92.27,
+        "psnr": 29.99,
+        "url": "duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf92.27_psnr29.99_kbps11939.7_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 92.27, psnr 29.99, bitrate 11939.7kbps, test duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3312.62,
+        "vmaf": 69.3,
+        "psnr": 28.64,
+        "url": "duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf69.3_psnr28.64_kbps3312.62_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 69.3, psnr 28.64, bitrate 3312.62kbps, test duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 6053.61,
+        "vmaf": 81.42,
+        "psnr": 29.4,
+        "url": "duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf81.42_psnr29.4_kbps6053.61_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 81.42, psnr 29.4, bitrate 6053.61kbps, test duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 7529.47,
+        "vmaf": 85.37,
+        "psnr": 29.62,
+        "url": "duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf85.37_psnr29.62_kbps7529.47_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 85.37, psnr 29.62, bitrate 7529.47kbps, test duckstakeoff1080p5060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2338.13,
+        "vmaf": 55.51,
+        "psnr": 29.21,
+        "url": "duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf55.51_psnr29.21_kbps2338.13_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 55.51, psnr 29.21, bitrate 2338.13kbps, test duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 7172.72,
+        "vmaf": 79.36,
+        "psnr": 32.25,
+        "url": "duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf79.36_psnr32.25_kbps7172.72_fps50.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 79.36, psnr 32.25, bitrate 7172.72kbps, test duckstakeoff1080p5060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    }
+]

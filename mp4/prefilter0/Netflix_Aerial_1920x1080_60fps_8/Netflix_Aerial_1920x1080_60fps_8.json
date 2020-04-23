@@ -1,0 +1,146 @@
+[
+    {
+        "bitrate_kbps": 4863.42,
+        "vmaf": 97.24,
+        "psnr": 32.1,
+        "url": "NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf97.24_psnr32.1_kbps4863.42_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 97.24, psnr 32.1, bitrate 4863.42kbps, test NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3978.34,
+        "vmaf": 95.07,
+        "psnr": 32.04,
+        "url": "NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf95.07_psnr32.04_kbps3978.34_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 95.07, psnr 32.04, bitrate 3978.34kbps, test NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2102.03,
+        "vmaf": 82.97,
+        "psnr": 35.04,
+        "url": "NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf82.97_psnr35.04_kbps2102.03_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 82.97, psnr 35.04, bitrate 2102.03kbps, test NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1113.41,
+        "vmaf": 71.5,
+        "psnr": 32.64,
+        "url": "NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf71.5_psnr32.64_kbps1113.41_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 71.5, psnr 32.64, bitrate 1113.41kbps, test NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2606.17,
+        "vmaf": 85.58,
+        "psnr": 35.86,
+        "url": "NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf85.58_psnr35.86_kbps2606.17_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 85.58, psnr 35.86, bitrate 2606.17kbps, test NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3805.7,
+        "vmaf": 89.22,
+        "psnr": 37.35,
+        "url": "NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf89.22_psnr37.35_kbps3805.7_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 89.22, psnr 37.35, bitrate 3805.7kbps, test NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 7825.26,
+        "vmaf": 93.52,
+        "psnr": 39.99,
+        "url": "NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf93.52_psnr39.99_kbps7825.26_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 93.52, psnr 39.99, bitrate 7825.26kbps, test NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 13265.81,
+        "vmaf": 99.96,
+        "psnr": 32.27,
+        "url": "NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.96_psnr32.27_kbps13265.81_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.96, psnr 32.27, bitrate 13265.81kbps, test NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 5461.58,
+        "vmaf": 91.64,
+        "psnr": 38.68,
+        "url": "NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf91.64_psnr38.68_kbps5461.58_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 91.64, psnr 38.68, bitrate 5461.58kbps, test NetflixAerial1920x108060fps8mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6780.58,
+        "vmaf": 99.32,
+        "psnr": 32.16,
+        "url": "NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf99.32_psnr32.16_kbps6780.58_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 99.32, psnr 32.16, bitrate 6780.58kbps, test NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2135.76,
+        "vmaf": 86.43,
+        "psnr": 31.74,
+        "url": "NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf86.43_psnr31.74_kbps2135.76_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 86.43, psnr 31.74, bitrate 2135.76kbps, test NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 9418.53,
+        "vmaf": 99.94,
+        "psnr": 32.23,
+        "url": "NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.94_psnr32.23_kbps9418.53_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.94, psnr 32.23, bitrate 9418.53kbps, test NetflixAerial1920x108060fps8mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

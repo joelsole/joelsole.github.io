@@ -1,0 +1,242 @@
+[
+    {
+        "bitrate_kbps": 676.82,
+        "vmaf": 83.94,
+        "psnr": 35.87,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf83.94_psnr35.87_kbps676.82_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 83.94, psnr 35.87, bitrate 676.82kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5835.71,
+        "vmaf": 97.36,
+        "psnr": 49.02,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf97.36_psnr49.02_kbps5835.71_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 97.36, psnr 49.02, bitrate 5835.71kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3944.68,
+        "vmaf": 100.0,
+        "psnr": 29.69,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf100.0_psnr29.69_kbps3944.68_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 100.0, psnr 29.69, bitrate 3944.68kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1953.1,
+        "vmaf": 94.37,
+        "psnr": 42.31,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf94.37_psnr42.31_kbps1953.1_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 94.37, psnr 42.31, bitrate 1953.1kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6485.74,
+        "vmaf": 100.0,
+        "psnr": 29.67,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf100.0_psnr29.67_kbps6485.74_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 100.0, psnr 29.67, bitrate 6485.74kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 12382.24,
+        "vmaf": 100.0,
+        "psnr": 29.65,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp16_vmaf100.0_psnr29.65_kbps12382.24_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 16, vmaf 100.0, psnr 29.65, bitrate 12382.24kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1876.23,
+        "vmaf": 100.0,
+        "psnr": 29.64,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf100.0_psnr29.64_kbps1876.23_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 100.0, psnr 29.64, bitrate 1876.23kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 7217.57,
+        "vmaf": 97.59,
+        "psnr": 50.21,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp20_vmaf97.59_psnr50.21_kbps7217.57_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 20, vmaf 97.59, psnr 50.21, bitrate 7217.57kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 8621.55,
+        "vmaf": 100.0,
+        "psnr": 29.66,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf100.0_psnr29.66_kbps8621.55_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 100.0, psnr 29.66, bitrate 8621.55kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4340.49,
+        "vmaf": 96.92,
+        "psnr": 47.19,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf96.92_psnr47.19_kbps4340.49_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 96.92, psnr 47.19, bitrate 4340.49kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3422.75,
+        "vmaf": 96.38,
+        "psnr": 45.69,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf96.38_psnr45.69_kbps3422.75_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 96.38, psnr 45.69, bitrate 3422.75kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2548.13,
+        "vmaf": 95.43,
+        "psnr": 43.86,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf95.43_psnr43.86_kbps2548.13_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 95.43, psnr 43.86, bitrate 2548.13kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3021.57,
+        "vmaf": 100.0,
+        "psnr": 29.68,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf100.0_psnr29.68_kbps3021.57_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 100.0, psnr 29.68, bitrate 3021.57kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 8345.94,
+        "vmaf": 97.71,
+        "psnr": 50.93,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp16_vmaf97.71_psnr50.93_kbps8345.94_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 16, vmaf 97.71, psnr 50.93, bitrate 8345.94kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1102.07,
+        "vmaf": 90.62,
+        "psnr": 38.9,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf90.62_psnr38.9_kbps1102.07_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 90.62, psnr 38.9, bitrate 1102.07kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1341.71,
+        "vmaf": 92.11,
+        "psnr": 40.07,
+        "url": "STARCRAFT60f420mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf92.11_psnr40.07_kbps1341.71_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 92.11, psnr 40.07, bitrate 1341.71kbps, test STARCRAFT60f420mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1174.58,
+        "vmaf": 99.96,
+        "psnr": 29.46,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf99.96_psnr29.46_kbps1174.58_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 99.96, psnr 29.46, bitrate 1174.58kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 10545.06,
+        "vmaf": 100.0,
+        "psnr": 29.65,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp20_vmaf100.0_psnr29.65_kbps10545.06_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 20, vmaf 100.0, psnr 29.65, bitrate 10545.06kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2217.82,
+        "vmaf": 100.0,
+        "psnr": 29.66,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf100.0_psnr29.66_kbps2217.82_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 100.0, psnr 29.66, bitrate 2217.82kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 5188.06,
+        "vmaf": 100.0,
+        "psnr": 29.68,
+        "url": "STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf100.0_psnr29.68_kbps5188.06_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 100.0, psnr 29.68, bitrate 5188.06kbps, test STARCRAFT60f420mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

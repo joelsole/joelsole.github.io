@@ -1,0 +1,146 @@
+[
+    {
+        "bitrate_kbps": 1965.43,
+        "vmaf": 90.76,
+        "psnr": 37.41,
+        "url": "touchdownpass1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf90.76_psnr37.41_kbps1965.43_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 90.76, psnr 37.41, bitrate 1965.43kbps, test touchdownpass1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6950.5,
+        "vmaf": 99.94,
+        "psnr": 33.72,
+        "url": "touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.94_psnr33.72_kbps6950.5_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.94, psnr 33.72, bitrate 6950.5kbps, test touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1243.46,
+        "vmaf": 90.84,
+        "psnr": 33.22,
+        "url": "touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf90.84_psnr33.22_kbps1243.46_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 90.84, psnr 33.22, bitrate 1243.46kbps, test touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 980.42,
+        "vmaf": 83.93,
+        "psnr": 35.65,
+        "url": "touchdownpass1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf83.93_psnr35.65_kbps980.42_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 83.93, psnr 35.65, bitrate 980.42kbps, test touchdownpass1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1358.91,
+        "vmaf": 87.93,
+        "psnr": 36.54,
+        "url": "touchdownpass1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf87.93_psnr36.54_kbps1358.91_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 87.93, psnr 36.54, bitrate 1358.91kbps, test touchdownpass1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3507.09,
+        "vmaf": 99.29,
+        "psnr": 33.66,
+        "url": "touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.29_psnr33.66_kbps3507.09_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.29, psnr 33.66, bitrate 3507.09kbps, test touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 460.39,
+        "vmaf": 69.47,
+        "psnr": 33.32,
+        "url": "touchdownpass1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf69.47_psnr33.32_kbps460.39_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 69.47, psnr 33.32, bitrate 460.39kbps, test touchdownpass1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2169.3,
+        "vmaf": 97.04,
+        "psnr": 33.52,
+        "url": "touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf97.04_psnr33.52_kbps2169.3_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 97.04, psnr 33.52, bitrate 2169.3kbps, test touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2845.68,
+        "vmaf": 92.73,
+        "psnr": 38.09,
+        "url": "touchdownpass1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf92.73_psnr38.09_kbps2845.68_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 92.73, psnr 38.09, bitrate 2845.68kbps, test touchdownpass1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 817.83,
+        "vmaf": 81.3,
+        "psnr": 35.12,
+        "url": "touchdownpass1080p60fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf81.3_psnr35.12_kbps817.83_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 81.3, psnr 35.12, bitrate 817.83kbps, test touchdownpass1080p60fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 730.83,
+        "vmaf": 80.71,
+        "psnr": 32.69,
+        "url": "touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf80.71_psnr32.69_kbps730.83_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 80.71, psnr 32.69, bitrate 730.83kbps, test touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1517.38,
+        "vmaf": 93.21,
+        "psnr": 33.34,
+        "url": "touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf93.21_psnr33.34_kbps1517.38_fps29.97.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 93.21, psnr 33.34, bitrate 1517.38kbps, test touchdownpass1080p60fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

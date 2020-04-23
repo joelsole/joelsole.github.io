@@ -1,0 +1,146 @@
+[
+    {
+        "bitrate_kbps": 5006.91,
+        "vmaf": 94.4,
+        "psnr": 39.3,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf94.4_psnr39.3_kbps5006.91_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 94.4, psnr 39.3, bitrate 5006.91kbps, test NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3549.77,
+        "vmaf": 91.83,
+        "psnr": 38.65,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf91.83_psnr38.65_kbps3549.77_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 91.83, psnr 38.65, bitrate 3549.77kbps, test NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 7890.54,
+        "vmaf": 99.93,
+        "psnr": 35.77,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.93_psnr35.77_kbps7890.54_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.93, psnr 35.77, bitrate 7890.54kbps, test NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 5261.74,
+        "vmaf": 99.9,
+        "psnr": 35.62,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf99.9_psnr35.62_kbps5261.74_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 99.9, psnr 35.62, bitrate 5261.74kbps, test NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1534.34,
+        "vmaf": 80.67,
+        "psnr": 36.53,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf80.67_psnr36.53_kbps1534.34_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 80.67, psnr 36.53, bitrate 1534.34kbps, test NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2528.67,
+        "vmaf": 88.28,
+        "psnr": 37.86,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf88.28_psnr37.86_kbps2528.67_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 88.28, psnr 37.86, bitrate 2528.67kbps, test NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 907.29,
+        "vmaf": 69.63,
+        "psnr": 34.91,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf69.63_psnr34.91_kbps907.29_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 69.63, psnr 34.91, bitrate 907.29kbps, test NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2074.42,
+        "vmaf": 91.77,
+        "psnr": 34.92,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf91.77_psnr34.92_kbps2074.42_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 91.77, psnr 34.92, bitrate 2074.42kbps, test NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 3585.1,
+        "vmaf": 98.59,
+        "psnr": 35.4,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf98.59_psnr35.4_kbps3585.1_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 98.59, psnr 35.4, bitrate 3585.1kbps, test NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1844.22,
+        "vmaf": 83.83,
+        "psnr": 37.04,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf83.83_psnr37.04_kbps1844.22_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 83.83, psnr 37.04, bitrate 1844.22kbps, test NetflixFoodMarket1920x108060fmrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 2523.11,
+        "vmaf": 94.81,
+        "psnr": 35.11,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf94.81_psnr35.11_kbps2523.11_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 94.81, psnr 35.11, bitrate 2523.11kbps, test NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1197.0,
+        "vmaf": 81.74,
+        "psnr": 34.12,
+        "url": "NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf81.74_psnr34.12_kbps1197.0_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 81.74, psnr 34.12, bitrate 1197.0kbps, test NetflixFoodMarket1920x108060fmrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]

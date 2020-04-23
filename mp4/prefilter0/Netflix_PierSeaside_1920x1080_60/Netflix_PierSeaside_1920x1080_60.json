@@ -1,0 +1,194 @@
+[
+    {
+        "bitrate_kbps": 2143.84,
+        "vmaf": 100.0,
+        "psnr": 33.88,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf100.0_psnr33.88_kbps2143.84_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 100.0, psnr 33.88, bitrate 2143.84kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1512.42,
+        "vmaf": 100.0,
+        "psnr": 33.83,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf100.0_psnr33.83_kbps1512.42_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 100.0, psnr 33.83, bitrate 1512.42kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 2776.87,
+        "vmaf": 99.35,
+        "psnr": 43.34,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf99.35_psnr43.34_kbps2776.87_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 99.35, psnr 43.34, bitrate 2776.87kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1264.73,
+        "vmaf": 96.62,
+        "psnr": 41.1,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp49_vmaf96.62_psnr41.1_kbps1264.73_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 49, vmaf 96.62, psnr 41.1, bitrate 1264.73kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 1885.11,
+        "vmaf": 98.31,
+        "psnr": 42.25,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf98.31_psnr42.25_kbps1885.11_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 98.31, psnr 42.25, bitrate 1885.11kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 5370.28,
+        "vmaf": 99.87,
+        "psnr": 44.95,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf99.87_psnr44.95_kbps5370.28_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 99.87, psnr 44.95, bitrate 5370.28kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3187.5,
+        "vmaf": 100.0,
+        "psnr": 33.92,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp43_vmaf100.0_psnr33.92_kbps3187.5_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 43, vmaf 100.0, psnr 33.92, bitrate 3187.5kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 4609.8,
+        "vmaf": 100.0,
+        "psnr": 33.96,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp37_vmaf100.0_psnr33.96_kbps4609.8_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 37, vmaf 100.0, psnr 33.96, bitrate 4609.8kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 449.9,
+        "vmaf": 85.88,
+        "psnr": 37.17,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf85.88_psnr37.17_kbps449.9_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 85.88, psnr 37.17, bitrate 449.9kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 10487.52,
+        "vmaf": 100.0,
+        "psnr": 34.01,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp26_vmaf100.0_psnr34.01_kbps10487.52_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 26, vmaf 100.0, psnr 34.01, bitrate 10487.52kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 894.34,
+        "vmaf": 94.35,
+        "psnr": 39.92,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp55_vmaf94.35_psnr39.92_kbps894.34_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 55, vmaf 94.35, psnr 39.92, bitrate 894.34kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 6439.79,
+        "vmaf": 100.0,
+        "psnr": 33.98,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf100.0_psnr33.98_kbps6439.79_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 100.0, psnr 33.98, bitrate 6439.79kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 739.45,
+        "vmaf": 92.6,
+        "psnr": 39.21,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf92.6_psnr39.21_kbps739.45_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 92.6, psnr 39.21, bitrate 739.45kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 3721.58,
+        "vmaf": 99.71,
+        "psnr": 44.11,
+        "url": "NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c__libaom__1920_1080__qp32_vmaf99.71_psnr44.11_kbps3721.58_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 32, vmaf 99.71, psnr 44.11, bitrate 3721.58kbps, test NetflixPierSeaside1920x108060mrobj11080plibaom2020032553ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "bitrate_kbps": 728.3,
+        "vmaf": 98.79,
+        "psnr": 33.59,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp63_vmaf98.79_psnr33.59_kbps728.3_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 63, vmaf 98.79, psnr 33.59, bitrate 728.3kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    },
+    {
+        "bitrate_kbps": 1255.18,
+        "vmaf": 99.98,
+        "psnr": 33.79,
+        "url": "NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c__libaom__1920_1080__qp58_vmaf99.98_psnr33.79_kbps1255.18_fps60.0.mp4",
+        "hovertext": "1920x1080, qp 58, vmaf 99.98, psnr 33.79, bitrate 1255.18kbps, test NetflixPierSeaside1920x108060mrobj11080pfilterlibaom2020032553ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ]
+    }
+]
