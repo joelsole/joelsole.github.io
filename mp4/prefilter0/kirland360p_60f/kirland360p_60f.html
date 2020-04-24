@@ -1,77 +1,167 @@
-
+<html><head>
             <style>
-                svg, video { position:fixed; top:0; left:0; height:100%; width:100%; }
+                #rd_plot, video { position:fixed; top:0; left:0; height:100%; width:100%; }
+                #info { position:fixed; top:0; left:0; width:100%; text-align:center; z-index:1000; font-size: 2em }
+                svg { position:fixed; top:0; left:0; width:100%; }
+                video { display:none; }
             </style>
         
             <script>
-                function togglePlot(x) {
-                    if (x.style.display === "none")
-                        x.style.display = "block";
-                    else
-                        x.style.display = "none";
-                 }
-    
                 function play_video(url) {
-                    togglePlot(svg);
+                    rd_plot.style.display = "none";
+                    video.style.display = "block";
+                    document.body.style.backgroundColor = "black";
                     video.setAttribute('src', url);
                     video.play();
                 }
+
+                function show_hovertext(text) {
+                    document.getElementById("info").innerHTML = text;
+                }
+
+                function no_hovertext(url) {
+                    document.getElementById("info").innerHTML = "";
+                }
     
                 window.addEventListener('load', function () {
-                    svg = document.getElementsByTagName("svg")[0]
-                    video = document.getElementsByTagName("video")[0]
+                    rd_plot = document.getElementById("rd_plot");
+                    video = document.getElementsByTagName("video")[0];
             
-                document.getElementById('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 20, vmaf 100.0, psnr 36.66, bitrate 794.67kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 43, vmaf 100.0, psnr 36.65, bitrate 143.43kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 55, vmaf 99.83, psnr 36.66, bitrate 79.54kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 43, vmaf 93.28, psnr 44.86, bitrate 93.42kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 32, vmaf 95.15, psnr 46.35, bitrate 156.44kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 20, vmaf 96.06, psnr 47.48, bitrate 290.52kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 63, vmaf 94.89, psnr 36.5, bitrate 43.88kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 55, vmaf 89.3, psnr 42.66, bitrate 54.54kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 63, vmaf 81.31, psnr 39.87, bitrate 33.01kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
-                document.getElementById('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4').addEventListener("click", function() {
-                     play_video('kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4');
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4').addEventListener("click", function() {
+                     play_video('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4').addEventListener("mouseover", function() {
+                     show_hovertext('640x360, qp 32, vmaf 100.0, psnr 36.66, bitrate 277.14kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c');
+                });
+
+                document.getElementById('kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4').addEventListener("mouseout", function() {
+                     no_hovertext();
                 });
             
                 })
     
                 document.addEventListener("keydown", (e) => {
-                    if ((e.key === "Escape") && (!video.paused)) {
+                    if ((e.key === " ") && (!video.paused)) {
                         video.pause()
-                        togglePlot(svg)
+                        video.style.display = "none";
+                        document.body.style.backgroundColor = "white";
+                        rd_plot.style.display = "block";
                     }   
                 });
             </script>
-        
+        </head><body>
             <video loop> </video>
+        <div id=rd_plot>
+            <p id="info"></p>
         <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -103,7 +193,7 @@ z
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
-      <path clip-path="url(#pde9d0bdef3)" d="M 149.405865 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 149.405865 576.72 
 L 149.405865 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
@@ -111,10 +201,10 @@ L 149.405865 77.76
       <defs>
        <path d="M 0 0 
 L 0 3.5 
-" id="m90833f5b69" style="stroke:#000000;stroke-width:0.8;"/>
+" id="m50ba1fbea4" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="149.405865" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="149.405865" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_1">
@@ -149,13 +239,13 @@ z
     </g>
     <g id="xtick_2">
      <g id="line2d_3">
-      <path clip-path="url(#pde9d0bdef3)" d="M 255.967371 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 255.967371 576.72 
 L 255.967371 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="255.967371" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="255.967371" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_2">
@@ -184,13 +274,13 @@ z
     </g>
     <g id="xtick_3">
      <g id="line2d_5">
-      <path clip-path="url(#pde9d0bdef3)" d="M 362.528876 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 362.528876 576.72 
 L 362.528876 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_6">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="362.528876" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="362.528876" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_3">
@@ -230,13 +320,13 @@ z
     </g>
     <g id="xtick_4">
      <g id="line2d_7">
-      <path clip-path="url(#pde9d0bdef3)" d="M 469.090382 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 469.090382 576.72 
 L 469.090382 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_8">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="469.090382" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="469.090382" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_4">
@@ -284,13 +374,13 @@ z
     </g>
     <g id="xtick_5">
      <g id="line2d_9">
-      <path clip-path="url(#pde9d0bdef3)" d="M 575.651888 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 575.651888 576.72 
 L 575.651888 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_10">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="575.651888" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="575.651888" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_5">
@@ -323,13 +413,13 @@ z
     </g>
     <g id="xtick_6">
      <g id="line2d_11">
-      <path clip-path="url(#pde9d0bdef3)" d="M 682.213393 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 682.213393 576.72 
 L 682.213393 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_12">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="682.213393" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="682.213393" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_6">
@@ -369,13 +459,13 @@ z
     </g>
     <g id="xtick_7">
      <g id="line2d_13">
-      <path clip-path="url(#pde9d0bdef3)" d="M 788.774899 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 788.774899 576.72 
 L 788.774899 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_14">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="788.774899" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="788.774899" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_7">
@@ -421,13 +511,13 @@ z
     </g>
     <g id="xtick_8">
      <g id="line2d_15">
-      <path clip-path="url(#pde9d0bdef3)" d="M 895.336404 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 895.336404 576.72 
 L 895.336404 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_16">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="895.336404" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="895.336404" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_8">
@@ -452,13 +542,13 @@ z
     </g>
     <g id="xtick_9">
      <g id="line2d_17">
-      <path clip-path="url(#pde9d0bdef3)" d="M 1001.89791 576.72 
+      <path clip-path="url(#p9db0791666)" d="M 1001.89791 576.72 
 L 1001.89791 77.76 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_18">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="1001.89791" xlink:href="#m90833f5b69" y="576.72"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="1001.89791" xlink:href="#m50ba1fbea4" y="576.72"/>
       </g>
      </g>
      <g id="text_9">
@@ -789,7 +879,7 @@ z
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_19">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 525.159101 
+      <path clip-path="url(#p9db0791666)" d="M 144 525.159101 
 L 1036.8 525.159101 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
@@ -797,10 +887,10 @@ L 1036.8 525.159101
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m11ae05260e" style="stroke:#000000;stroke-width:0.8;"/>
+" id="m2e39976d7a" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="525.159101"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="525.159101"/>
       </g>
      </g>
      <g id="text_11">
@@ -823,13 +913,13 @@ z
     </g>
     <g id="ytick_2">
      <g id="line2d_21">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 464.484944 
+      <path clip-path="url(#p9db0791666)" d="M 144 464.484944 
 L 1036.8 464.484944 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_22">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="464.484944"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="464.484944"/>
       </g>
      </g>
      <g id="text_12">
@@ -844,13 +934,13 @@ L 1036.8 464.484944
     </g>
     <g id="ytick_3">
      <g id="line2d_23">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 403.810787 
+      <path clip-path="url(#p9db0791666)" d="M 144 403.810787 
 L 1036.8 403.810787 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_24">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="403.810787"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="403.810787"/>
       </g>
      </g>
      <g id="text_13">
@@ -865,13 +955,13 @@ L 1036.8 403.810787
     </g>
     <g id="ytick_4">
      <g id="line2d_25">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 343.136629 
+      <path clip-path="url(#p9db0791666)" d="M 144 343.136629 
 L 1036.8 343.136629 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_26">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="343.136629"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="343.136629"/>
       </g>
      </g>
      <g id="text_14">
@@ -918,13 +1008,13 @@ z
     </g>
     <g id="ytick_5">
      <g id="line2d_27">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 282.462472 
+      <path clip-path="url(#p9db0791666)" d="M 144 282.462472 
 L 1036.8 282.462472 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_28">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="282.462472"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="282.462472"/>
       </g>
      </g>
      <g id="text_15">
@@ -939,13 +1029,13 @@ L 1036.8 282.462472
     </g>
     <g id="ytick_6">
      <g id="line2d_29">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 221.788315 
+      <path clip-path="url(#p9db0791666)" d="M 144 221.788315 
 L 1036.8 221.788315 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_30">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="221.788315"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="221.788315"/>
       </g>
      </g>
      <g id="text_16">
@@ -960,13 +1050,13 @@ L 1036.8 221.788315
     </g>
     <g id="ytick_7">
      <g id="line2d_31">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 161.114157 
+      <path clip-path="url(#p9db0791666)" d="M 144 161.114157 
 L 1036.8 161.114157 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_32">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="161.114157"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="161.114157"/>
       </g>
      </g>
      <g id="text_17">
@@ -981,13 +1071,13 @@ L 1036.8 161.114157
     </g>
     <g id="ytick_8">
      <g id="line2d_33">
-      <path clip-path="url(#pde9d0bdef3)" d="M 144 100.44 
+      <path clip-path="url(#p9db0791666)" d="M 144 100.44 
 L 1036.8 100.44 
 " style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;"/>
      </g>
      <g id="line2d_34">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m11ae05260e" y="100.44"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="144" xlink:href="#m2e39976d7a" y="100.44"/>
       </g>
      </g>
      <g id="text_18">
@@ -1064,43 +1154,23 @@ z
     </g>
    </g>
    <g id="line2d_35">
-    <path clip-path="url(#pde9d0bdef3)" d="M 184.581818 554.04 
-L 207.52451 360.125393 
-L 248.955624 263.532135 
-L 316.110685 218.147865 
-L 458.988351 196.062472 
-" style="fill:none;opacity:0.2;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
-   </g>
-   <g id="line2d_36">
-    <path clip-path="url(#pde9d0bdef3)" d="M 196.165054 224.457978 
+    <path clip-path="url(#p9db0791666)" d="M 196.165054 224.457978 
 L 234.164887 104.565843 
 L 302.247033 100.44 
 L 444.730422 100.44 
 L 996.218182 100.44 
 " style="fill:none;opacity:0.2;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
    </g>
-   <g id="kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 207.52451 360.125393 
-" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
-    <defs>
-     <path d="M 0 5 
-C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
-C 4.473168 2.597899 5 1.326016 5 0 
-C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
-C 2.597899 -4.473168 1.326016 -5 0 -5 
-C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
-C -4.473168 -2.597899 -5 -1.326016 -5 0 
-C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
-C -2.597899 4.473168 -1.326016 5 0 5 
-z
-" id="m47465df7cc" style="stroke:#408080;"/>
-    </defs>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="207.52451" xlink:href="#m47465df7cc" y="360.125393"/>
-    </g>
+   <g id="line2d_36">
+    <path clip-path="url(#p9db0791666)" d="M 184.581818 554.04 
+L 207.52451 360.125393 
+L 248.955624 263.532135 
+L 316.110685 218.147865 
+L 458.988351 196.062472 
+" style="fill:none;opacity:0.2;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
    </g>
-   <g id="kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 444.730422 100.44 
+   <g id="kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 996.218182 100.44 
 " style="fill:none;opacity:0.6;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
     <defs>
      <path d="M 0 5 
@@ -1113,66 +1183,86 @@ C -4.473168 -2.597899 -5 -1.326016 -5 0
 C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
 C -2.597899 4.473168 -1.326016 5 0 5 
 z
-" id="m90a8699fed" style="stroke:#804040;"/>
+" id="mb11252b6c9" style="stroke:#804040;"/>
     </defs>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="444.730422" xlink:href="#m90a8699fed" y="100.44"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="996.218182" xlink:href="#mb11252b6c9" y="100.44"/>
     </g>
    </g>
-   <g id="kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 234.164887 104.565843 
+   <g id="kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 302.247033 100.44 
 " style="fill:none;opacity:0.6;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="234.164887" xlink:href="#m90a8699fed" y="104.565843"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="302.247033" xlink:href="#mb11252b6c9" y="100.44"/>
     </g>
    </g>
-   <g id="kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 458.988351 196.062472 
-" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="458.988351" xlink:href="#m47465df7cc" y="196.062472"/>
-    </g>
-   </g>
-   <g id="kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 316.110685 218.147865 
-" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="316.110685" xlink:href="#m47465df7cc" y="218.147865"/>
-    </g>
-   </g>
-   <g id="kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 184.581818 554.04 
-" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="184.581818" xlink:href="#m47465df7cc" y="554.04"/>
-    </g>
-   </g>
-   <g id="kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 196.165054 224.457978 
+   <g id="kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 234.164887 104.565843 
 " style="fill:none;opacity:0.6;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="196.165054" xlink:href="#m90a8699fed" y="224.457978"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="234.164887" xlink:href="#mb11252b6c9" y="104.565843"/>
     </g>
    </g>
-   <g id="kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 302.247033 100.44 
-" style="fill:none;opacity:0.6;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="302.247033" xlink:href="#m90a8699fed" y="100.44"/>
-    </g>
-   </g>
-   <g id="kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 248.955624 263.532135 
+   <g id="kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 248.955624 263.532135 
 " style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="248.955624" xlink:href="#m47465df7cc" y="263.532135"/>
+    <defs>
+     <path d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" id="m5490ddca24" style="stroke:#408080;"/>
+    </defs>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="248.955624" xlink:href="#m5490ddca24" y="263.532135"/>
     </g>
    </g>
-   <g id="kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4">
-    <path clip-path="url(#pde9d0bdef3)" d="M 996.218182 100.44 
+   <g id="kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 316.110685 218.147865 
+" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="316.110685" xlink:href="#m5490ddca24" y="218.147865"/>
+    </g>
+   </g>
+   <g id="kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 458.988351 196.062472 
+" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="458.988351" xlink:href="#m5490ddca24" y="196.062472"/>
+    </g>
+   </g>
+   <g id="kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 196.165054 224.457978 
 " style="fill:none;opacity:0.6;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
-    <g clip-path="url(#pde9d0bdef3)">
-     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="996.218182" xlink:href="#m90a8699fed" y="100.44"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="196.165054" xlink:href="#mb11252b6c9" y="224.457978"/>
+    </g>
+   </g>
+   <g id="kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 207.52451 360.125393 
+" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="207.52451" xlink:href="#m5490ddca24" y="360.125393"/>
+    </g>
+   </g>
+   <g id="kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 184.581818 554.04 
+" style="fill:none;opacity:0.6;stroke:#408080;stroke-linecap:square;stroke-width:1.5;"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#408080;opacity:0.6;stroke:#408080;" x="184.581818" xlink:href="#m5490ddca24" y="554.04"/>
+    </g>
+   </g>
+   <g id="kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4">
+    <path clip-path="url(#p9db0791666)" d="M 444.730422 100.44 
+" style="fill:none;opacity:0.6;stroke:#804040;stroke-linecap:square;stroke-width:1.5;"/>
+    <g clip-path="url(#p9db0791666)">
+     <use style="fill:#804040;opacity:0.6;stroke:#804040;" x="444.730422" xlink:href="#mb11252b6c9" y="100.44"/>
     </g>
    </g>
    <g id="patch_3">
@@ -1198,8 +1288,9 @@ L 1036.8 77.76
   </g>
  </g>
  <defs>
-  <clipPath id="pde9d0bdef3">
+  <clipPath id="p9db0791666">
    <rect height="498.96" width="892.8" x="144" y="77.76"/>
   </clipPath>
  </defs>
 </svg>
+</div></body></html>

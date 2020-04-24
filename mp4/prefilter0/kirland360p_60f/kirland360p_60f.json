@@ -1,122 +1,132 @@
 [
     {
-        "bitrate_kbps": 54.54,
-        "vmaf": 89.3,
-        "psnr": 42.66,
-        "url": "kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4",
-        "hovertext": "640x360, qp 55, vmaf 89.3, psnr 42.66, bitrate 54.54kbps, test kirland360p60fkirlandlibaom2020032553ac283c",
-        "color": [
-            0.25,
-            0.5,
-            0.5
-        ]
-    },
-    {
-        "bitrate_kbps": 277.14,
+        "bitrate_kbps": 794.67,
         "vmaf": 100.0,
         "psnr": 36.66,
-        "url": "kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4",
-        "hovertext": "640x360, qp 32, vmaf 100.0, psnr 36.66, bitrate 277.14kbps, test kirland360p60fkirlandfilterlibaom2020032553ac283c",
+        "url": "kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4",
+        "hovertext": "640x360, qp 20, vmaf 100.0, psnr 36.66, bitrate 794.67kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c",
         "color": [
             0.5,
             0.25,
             0.25
-        ]
-    },
-    {
-        "bitrate_kbps": 79.54,
-        "vmaf": 99.83,
-        "psnr": 36.66,
-        "url": "kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4",
-        "hovertext": "640x360, qp 55, vmaf 99.83, psnr 36.66, bitrate 79.54kbps, test kirland360p60fkirlandfilterlibaom2020032553ac283c",
-        "color": [
-            0.5,
-            0.25,
-            0.25
-        ]
-    },
-    {
-        "bitrate_kbps": 290.52,
-        "vmaf": 96.06,
-        "psnr": 47.48,
-        "url": "kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4",
-        "hovertext": "640x360, qp 20, vmaf 96.06, psnr 47.48, bitrate 290.52kbps, test kirland360p60fkirlandlibaom2020032553ac283c",
-        "color": [
-            0.25,
-            0.5,
-            0.5
-        ]
-    },
-    {
-        "bitrate_kbps": 156.44,
-        "vmaf": 95.15,
-        "psnr": 46.35,
-        "url": "kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4",
-        "hovertext": "640x360, qp 32, vmaf 95.15, psnr 46.35, bitrate 156.44kbps, test kirland360p60fkirlandlibaom2020032553ac283c",
-        "color": [
-            0.25,
-            0.5,
-            0.5
-        ]
-    },
-    {
-        "bitrate_kbps": 33.01,
-        "vmaf": 81.31,
-        "psnr": 39.87,
-        "url": "kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4",
-        "hovertext": "640x360, qp 63, vmaf 81.31, psnr 39.87, bitrate 33.01kbps, test kirland360p60fkirlandlibaom2020032553ac283c",
-        "color": [
-            0.25,
-            0.5,
-            0.5
-        ]
-    },
-    {
-        "bitrate_kbps": 43.88,
-        "vmaf": 94.89,
-        "psnr": 36.5,
-        "url": "kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4",
-        "hovertext": "640x360, qp 63, vmaf 94.89, psnr 36.5, bitrate 43.88kbps, test kirland360p60fkirlandfilterlibaom2020032553ac283c",
-        "color": [
-            0.5,
-            0.25,
-            0.25
-        ]
+        ],
+        "linestyle": "-"
     },
     {
         "bitrate_kbps": 143.43,
         "vmaf": 100.0,
         "psnr": 36.65,
-        "url": "kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4",
-        "hovertext": "640x360, qp 43, vmaf 100.0, psnr 36.65, bitrate 143.43kbps, test kirland360p60fkirlandfilterlibaom2020032553ac283c",
+        "url": "kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf100.0_psnr36.65_kbps143.43_fps30.0.mp4",
+        "hovertext": "640x360, qp 43, vmaf 100.0, psnr 36.65, bitrate 143.43kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c",
         "color": [
             0.5,
             0.25,
             0.25
-        ]
+        ],
+        "linestyle": "-"
+    },
+    {
+        "bitrate_kbps": 79.54,
+        "vmaf": 99.83,
+        "psnr": 36.66,
+        "url": "kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf99.83_psnr36.66_kbps79.54_fps30.0.mp4",
+        "hovertext": "640x360, qp 55, vmaf 99.83, psnr 36.66, bitrate 79.54kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ],
+        "linestyle": "-"
     },
     {
         "bitrate_kbps": 93.42,
         "vmaf": 93.28,
         "psnr": 44.86,
-        "url": "kirland360p60fkirlandlibaom2020032553ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4",
-        "hovertext": "640x360, qp 43, vmaf 93.28, psnr 44.86, bitrate 93.42kbps, test kirland360p60fkirlandlibaom2020032553ac283c",
+        "url": "kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp43_vmaf93.28_psnr44.86_kbps93.42_fps30.0.mp4",
+        "hovertext": "640x360, qp 43, vmaf 93.28, psnr 44.86, bitrate 93.42kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c",
         "color": [
             0.25,
             0.5,
             0.5
-        ]
+        ],
+        "linestyle": "-"
     },
     {
-        "bitrate_kbps": 794.67,
-        "vmaf": 100.0,
-        "psnr": 36.66,
-        "url": "kirland360p60fkirlandfilterlibaom2020032553ac283c__libaom__640_360__qp20_vmaf100.0_psnr36.66_kbps794.67_fps30.0.mp4",
-        "hovertext": "640x360, qp 20, vmaf 100.0, psnr 36.66, bitrate 794.67kbps, test kirland360p60fkirlandfilterlibaom2020032553ac283c",
+        "bitrate_kbps": 156.44,
+        "vmaf": 95.15,
+        "psnr": 46.35,
+        "url": "kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf95.15_psnr46.35_kbps156.44_fps30.0.mp4",
+        "hovertext": "640x360, qp 32, vmaf 95.15, psnr 46.35, bitrate 156.44kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ],
+        "linestyle": "-"
+    },
+    {
+        "bitrate_kbps": 290.52,
+        "vmaf": 96.06,
+        "psnr": 47.48,
+        "url": "kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp20_vmaf96.06_psnr47.48_kbps290.52_fps30.0.mp4",
+        "hovertext": "640x360, qp 20, vmaf 96.06, psnr 47.48, bitrate 290.52kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ],
+        "linestyle": "-"
+    },
+    {
+        "bitrate_kbps": 43.88,
+        "vmaf": 94.89,
+        "psnr": 36.5,
+        "url": "kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf94.89_psnr36.5_kbps43.88_fps30.0.mp4",
+        "hovertext": "640x360, qp 63, vmaf 94.89, psnr 36.5, bitrate 43.88kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c",
         "color": [
             0.5,
             0.25,
             0.25
-        ]
+        ],
+        "linestyle": "-"
+    },
+    {
+        "bitrate_kbps": 54.54,
+        "vmaf": 89.3,
+        "psnr": 42.66,
+        "url": "kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp55_vmaf89.3_psnr42.66_kbps54.54_fps30.0.mp4",
+        "hovertext": "640x360, qp 55, vmaf 89.3, psnr 42.66, bitrate 54.54kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ],
+        "linestyle": "-"
+    },
+    {
+        "bitrate_kbps": 33.01,
+        "vmaf": 81.31,
+        "psnr": 39.87,
+        "url": "kirland360p-60f-kirland-libaom-20200325-53ac283c__libaom__640_360__qp63_vmaf81.31_psnr39.87_kbps33.01_fps30.0.mp4",
+        "hovertext": "640x360, qp 63, vmaf 81.31, psnr 39.87, bitrate 33.01kbps, test kirland360p-60f-kirland-libaom-20200325-53ac283c",
+        "color": [
+            0.25,
+            0.5,
+            0.5
+        ],
+        "linestyle": "-"
+    },
+    {
+        "bitrate_kbps": 277.14,
+        "vmaf": 100.0,
+        "psnr": 36.66,
+        "url": "kirland360p-60f-kirland-filter-libaom-20200325-53ac283c__libaom__640_360__qp32_vmaf100.0_psnr36.66_kbps277.14_fps30.0.mp4",
+        "hovertext": "640x360, qp 32, vmaf 100.0, psnr 36.66, bitrate 277.14kbps, test kirland360p-60f-kirland-filter-libaom-20200325-53ac283c",
+        "color": [
+            0.5,
+            0.25,
+            0.25
+        ],
+        "linestyle": "-"
     }
 ]
