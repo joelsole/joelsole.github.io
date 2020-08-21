@@ -1,6 +1,13 @@
 <html>
 <body>
 <h2>SVT-AV1 command line changelog</h2>
+<h3>from 08/13/2020 --------------------</h3>
+<p>1-pass lookahead encoding:</p>
+<p>./SvtAv1EncApp -i &ltinput YUV&gt -o &ltreconstructed YUV&gt -w &ltwidth&gt -h &ltheight&gt -q &ltqp&gt -fps-num &ltfps num&gt -fps-denom &ltfps denom&gt -n &ltnumber of frames&gt -b &ltoutput bitstream&gt -intra-period &ltkf interval&gt -bit-depth &ltbit depth&gt -scd 0 -enc-mode 0 -enable-tpl-la 1 -lp 4 -scm 2</p>
+<h3>from 08/11/2020 --------------------</h3>
+<p>&ltqp&gt = {20, 32, 43, 55, 63}</p>
+<h3>from 02/12/2020 --------------------</h3>
+<p>addition of -scm 2</p>
 <h3>from 12/03/2019 --------------------</h3>
 <p>More reliable timing.</p>
 <p>Eight 1080p 10-bit sequences added: KristenAndSara_1280x720_60_10b, ducks_1920x1080_50fps_10b, Aerial_1920x1080_2997_10b, DinnerScene_1920x1080_2997_10b, RollerCoastPas_1920x1080_2997_10, BarScene1_1920x1080_2997_10b, ToddlerFountn_1920x1080_2997_10b, Sintel_Dragons_1920x816_24_10b</p>
